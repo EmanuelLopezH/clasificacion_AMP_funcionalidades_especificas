@@ -9,4 +9,5 @@ En este repositorio se busca documentar el proceso de Machine Learning para la c
 
 ## Integrantes
 Santiago Rivera Montoya
+
 Emanuel López Higuita
