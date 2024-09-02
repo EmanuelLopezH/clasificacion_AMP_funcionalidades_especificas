@@ -4,7 +4,7 @@
 
 
 # Clasificación de AMP con funcionalidades específicas
-En este repositorio se busca documentar el proceso de Machine Learning para la clasificación de péptidos antimicrobianos, en el cual se exploran, analizan y realizan modelos de clasificación para dos bases de datos, las cuales se les realiza un proceso de comparación, selección de variables y unificación, para crear la base de datos principal
+En este repositorio se documenta el proceso de clasificación de péptidos antimicrobianos utilizando técnicas de Machine Learning. Se exploran, analizan y desarrollan modelos de clasificación a partir de dos bases de datos, las cuales son comparadas, seleccionadas por variables relevantes y unificadas para crear una base de datos principal.
 
 
 ## Autores
